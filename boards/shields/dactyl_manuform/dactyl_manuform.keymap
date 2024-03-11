@@ -19,8 +19,8 @@
                 &kp Z  &kp X    &kp C    &kp V    &kp B                               &kp N    &kp M           &kp COMMA &kp DOT &kp SQT
                        &kp LBKT &kp RBKT                                                                       &kp MINUS &kp EQUAL
                                          &mt LSHIFT ESC  &mt LCTRL BSPC                        &mt RSHFT SPACE &mt RSHFT ENTER
-                                                         &kp LCTRL &mo ADJ            &kp END  &kp DEL
-                                                         &kp TAB   &kp LALT           &kp LGUI &mo RAISE
+                                                         &kp TAB     &kp HOME         &kp END  &kp DEL
+                                                         &mo LOWER   &kp GRAVE        &kp LGUI &mo RAISE
             >;
         };
 
