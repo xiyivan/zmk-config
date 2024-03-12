@@ -19,7 +19,7 @@
                 &kp A  &kp S    &kp D    &kp F    &kp G                                             &kp H            &kp J           &kp K     &kp L     &kp SEMICOLON
                 &kp Z  &kp X    &kp C    &kp V    &kp B                                             &kp N            &kp M           &kp COMMA &kp DOT   &kp SQT
                        &kp LBKT &kp RBKT                                                                                             &kp MINUS &kp EQUAL
-                                         &mt LSHIFT ESC  &kp BSPC                                   &mt RALT SPACE  &mt RSHFT ENTER
+                                         &kp BSPC &mt LSHIFT ESC                                    &mt RALT SPACE  &mt RSHFT ENTER
                                                          &mo ADJUST     &kp TAB       &mt LCTRL DEL &mo RAISE
                                                          &kp GRAVE      &kp LGUI      &kp END       &mo LOWER
             >;
