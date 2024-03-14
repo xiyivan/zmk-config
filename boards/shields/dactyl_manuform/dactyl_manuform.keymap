@@ -28,7 +28,7 @@
         lower_layer {
             bindings = <
                 &trans &trans &trans &trans &trans                       &kp C_VOL_UP   &trans       &kp UP    &trans    &kp PG_UP
-                &trans &trans &trans &trans &trans                       &kp C_MUTE     &kp LEFT     &kp DOWN  &kp RIGHT &kp PG_DN
+                &trans &kp PSCRN &trans &trans &trans                       &kp C_MUTE     &kp LEFT     &kp DOWN  &kp RIGHT &kp PG_DN
                 &trans &trans &trans &trans &trans                       &kp C_VOL_DN   &kp FSLH     &kp BSLH  &kp QMARK &kp PIPE
                        &trans &trans                                                    &mkp LCLK    &mkp RCLK
                                      &trans &trans                       &trans &trans
