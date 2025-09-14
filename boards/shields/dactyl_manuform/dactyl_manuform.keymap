@@ -5,9 +5,8 @@
 #include <dt-bindings/zmk/mouse.h>
 
 #define DEFAULT 0
-#define LOWER 1
-#define RAISE 2
-#define ADJUST 3
+#define FN 1
+
 
 / {
     keymap {
@@ -47,7 +46,7 @@
                 &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_CLR  &bootloader
                 
                 // 第五行: 返回默认层，其他功能键
-                &to 0  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+                &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
