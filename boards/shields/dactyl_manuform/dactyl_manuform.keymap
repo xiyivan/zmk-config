@@ -28,7 +28,7 @@
 
                 &kp LSFT  &kp SPACE  &kp SPACE  &kp RSFT
 
-
+                &kp ESC  &kp TAB  &kp BSPC  &kp DEL  &mo 1  &kp LGUI  &kp LALT  &kp ENTER  &kp LSFT  &kp SPACE  &kp SPACE  &kp RSFT  
             >;
         };
 
