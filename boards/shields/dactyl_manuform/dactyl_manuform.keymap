@@ -22,11 +22,11 @@
                 
                 &kp LBKT  &kp RBKT  &kp MINUS  &kp EQUAL
                 
-                &kp ESC &kp TAB &kp BSPC &kp DEL
+                &kp ESC  &kp TAB  &kp BSPC  &kp DEL
 
-                &kp LALT &kp LGUI &kp RLAT &kp ENTER
+                &kp LALT  &kp LGUI  &kp RLAT  &kp ENTER
 
-                &kp LSFT &kp SPACE &kp SPACE &kp RSFT
+                &kp LSFT  &kp SPACE  &kp SPACE  &kp RSFT
 
 
             >;
