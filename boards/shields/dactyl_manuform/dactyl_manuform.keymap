@@ -30,7 +30,7 @@
                 &kp ESC &kp TAB &kp BSPC &kp DEL
 
                 // 第六行: fn, win, ralt, enter
-                &mo fn, &kp LGUI, &kp RLAT, &kp ENTER
+                &mo FN, &kp LGUI, &kp RLAT, &kp ENTER
 
                 // 第七行：lshift, space, space, rshift
                 &kp LSFT &kp SPACE &kp SPACE &kp RSFT
