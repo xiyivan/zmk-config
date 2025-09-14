@@ -26,8 +26,14 @@
                 // 第四行: lbracket, rbracket, minus, equal
                 &kp LBKT  &kp RBKT  &kp MINUS  &kp EQUAL
                 
-                // 第五行: fn, win, lalt, space, lshift, tab, enter, space, rshift, delete, backspace, esc
-                &mo 1  &kp LGUI  &kp LALT  &kp SPACE  &kp LSFT  &kp TAB  &kp ENTER  &kp SPACE  &kp RSFT  &kp DEL  &kp BSPC  &kp ESC
+                // 第五行: esc, tab, backspace, delete
+                &kp ESC &kp TAB &kp BSPC &kp DEL
+
+                // 第六行: fn, win, ralt, enter
+                &mo 1, &kp LGUI, &kp RLAT, &kp ENTER
+
+                // 第七行：lshift, space, space, rshift
+                &kp LSFT &kp SPACE &kp SPACE &kp RSFT
             >;
         };
 
@@ -46,7 +52,9 @@
                 &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_CLR  &bootloader
                 
                 // 第五行: 返回默认层，其他功能键
-                &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+                &trans  &trans  &trans  &trans  
+                &trans  &trans  &trans  &trans 
+                &trans  &trans  &trans  &trans
             >;
         };
 
